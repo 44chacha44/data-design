@@ -10,13 +10,29 @@
 
 		<h2>User Persona</h2>
 
+		<div>
+			<img src="prince1.jpg" alt="prince">
+		</div>
+
 		<ul>
 			<li><strong>Name:</strong> Roger Nelson</li>
 			<li><strong>Age:</strong> 60</li>
 			<li><strong>Ethnicity:</strong> Black</li>
 			<li><strong>Occupation:</strong> Retired Musician</li>
-			<li><strong>Technology:</strong> <em>Desktop</em>; iMac Pro Mojave <em>Phone</em>; iPhone Xs 12.1.2 </li>
-			<li><strong>Hobbies:</strong> <em>Dancing</em>; <em>Singing</em>; <em>Basketball</em>; <em>Composing Music</em></li>
+			<li><strong>Technology:</strong>
+				<ul>
+					<li>Desktop is iMac Pro running Mojave</li>
+					<li>Phone is iPhone Xs on 12.1.2</li>
+				</ul>
+			</li>
+			<li><strong>Hobbies:</strong>
+				<ul>
+					<li>Dancing</li>
+					<li>Singing</li>
+					<li>Basketball</li>
+					<li>Composing Music</li>
+				</ul>
+			</li>
 			<li><strong>Needs/Goals/Features:</strong></li>
 		<ul>
 					<li>Shopping for new bed that is non-toxic and supportive</li>
