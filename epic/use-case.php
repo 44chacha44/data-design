@@ -14,14 +14,22 @@
 		<li>Mr. Nelson types www.purple.com into browser address.</li>
 		<li>Server returns Purple.com's landing page.</li>
 		<li>He hovers over the word MATTRESSES and selects The All-New Purple Mattress.</li>
+		<li>Server returns All-New Purple Mattress product page.</li>
 		<li>He skims/scrolls the site not wanting to watch the video and sees the icons confirming the bed is Hypoallergenic and Non-Toxic.</li>
 		<li>He clicks on the SHOP NOW icon.</li>
+		<li>Server loads page with bed options.</li>
 		<li>He selects size using drop down options.</li>
+		<li>Server displays Cal King as selected size.</li>
 		<li>He selects his level of comfort using same dropdown style as the size option.</li>
+		<li>Server displays Soft-4" Smart Comfort Grid</li>
 		<li>He selects his free gift.</li>
+		<li>Server displays Mattress Cover as selection.</li>
 		<li>He selects his sheet color.</li>
+		<li>Server displays Purple</li>
 		<li>He selects ADD TO CART</li>
+		<li>Server displays Shoppig Cart with selected items</li>
 		<li>He confirms his cart and clicks CHECKOUT</li>
+
 		<li>He enters Email address field.</li>
 		<li>He enters Shipping Address fields.</li>
 		<li>He clicks CONTINUE TO SHIPPING METHOD</li>
