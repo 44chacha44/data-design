@@ -10,10 +10,6 @@
 
 		<h2>User Persona</h2>
 
-		<div>
-			<img src="prince1.jpg" alt="prince">
-		</div>
-
 		<ul>
 			<li><strong>Name:</strong> Roger Nelson</li>
 			<li><strong>Age:</strong> 60</li>
@@ -48,6 +44,10 @@
 
 		<h2>User Story</h2>
 		<p>Mr. Nelson need a comfortable bed to finally get a good nights sleep as quickly as possible.</p>
+
+		<div>
+			<img src="prince1.jpg" alt="prince">
+		</div>
 
 	</body>
 </html>
