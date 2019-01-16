@@ -6,6 +6,6 @@
 	</head>
 	<body>
 		<div>
-
+			<label for="name">Name</label>
 		</div>
 	</body>
