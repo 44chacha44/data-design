@@ -3,39 +3,27 @@
 
 	<h2>Entities & Attributes:</h2>
 
-	<p><strong>Mattresses</strong></p>
+	<p><strong>Products</strong></p>
 
 	<ul>
-		<li>mattressId</li>
-		<li>reviewRate</li>
-		<li>mattressSize</li>
-		<li>mattressComfortLevel</li>
-		<li>freeGift</li>
-		<li>sheetColor</li>
-		<li>mattressPrice</li>
-	</ul>
-
-	<p><strong>Sheets</strong></p>
-
-	<ul>
-		<li>sheetsId</li>
-		<li>reviewRate</li>
-		<li>sheetsSize</li>
-		<li>sheetsPrice</li>
+		<li>productId</li>
+		<li>productType</li>
+		<li>productSize</li>
+		<li>productComfortLevel</li>
+		<li>productColor</li>
+		<li>productPrice</li>
 	</ul>
 
 	<p><strong>Reviews</strong></p>
 
 	<ul>
-		<li>productId</li>
-		<li>productIdImage</li>
-		<li>reviewRateAverage</li>
-		<li>reviewerId</li>
-		<li>reviewedDate</li>
+		<li>reviewProductId</li>
+		<li>reviewName</li>
+		<li>reviewDate</li>
 		<li>reviewTitle</li>
 		<li>reviewContent</li>
-		<li>reviewerSleepStyle</li>
-		<li>helpfulCount</li>
+		<li>reviewSleepStyle</li>
+		<li>reviewCounter</li>
 	</ul>
 
 	<p><strong>Blog</strong></p>
@@ -45,7 +33,7 @@
 		<li>blogDate</li>
 		<li>blogAuthor</li>
 		<li>blogContent</li>
-		<li>socialMediaShare</li>
+		<li>blogShare</li>
 	</ul>
 
 </body>
