@@ -38,14 +38,14 @@
 		<li>helpfulCount</li>
 	</ul>
 
-	<p><strong>Support</strong></p>
+	<p><strong>Blog</strong></p>
 
 	<ul>
-		<li>productId</li>
-		<li>productQuestions</li>
-		<li>contactOptions</li>
-
-
+		<li>blogTitle</li>
+		<li>blogDate</li>
+		<li>blogAuthor</li>
+		<li>blogContent</li>
+		<li>socialMediaShare</li>
 	</ul>
 
 </body>
