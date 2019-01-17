@@ -29,15 +29,13 @@
 		<li>He selects ADD TO CART</li>
 		<li>Server displays Shoppig Cart with selected items</li>
 		<li>He confirms his cart and clicks CHECKOUT</li>
-
-		<li>He enters Email address field.</li>
-		<li>He enters Shipping Address fields.</li>
-		<li>He clicks CONTINUE TO SHIPPING METHOD</li>
-		<li>He selects his delivery method.</li>
-		<li>He clicks CONTINUE TO PAYMET METHOD</li>
-		<li>He enters his Credit Card information.</li>
-		<li>He clicks COMPLETE ORDER.</li>
-		<li>He sees CONFIRMATION that is order was placed.</li>
+		<li>Server displays customer information form.</li>
+		<li>He enters his information in the empty fields and clicks CONTINUE TO SHIPPING METHOD</li>
+		<li>Server displays delivery method options</li>
+		<li>He selects his delivery method and clicks CONTINUE TO PAYMET METHOD</li>
+		<li>Server displays payment form.</li>
+		<li>He enters his Credit Card information and clicks SUBMIT ORDER</li>
+		<li>Server responds with confirmation page.</li>
 	</ul>
 	<p><strong>Frequency of Use:</strong> Once every 10 years.</p>
 </body>
