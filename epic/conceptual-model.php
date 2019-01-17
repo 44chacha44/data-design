@@ -26,14 +26,11 @@
 		<li>reviewCounter</li>
 	</ul>
 
-	<p><strong>Blog</strong></p>
+	<p><strong>Support</strong></p>
 
 	<ul>
-		<li>blogTitle</li>
-		<li>blogDate</li>
-		<li>blogAuthor</li>
-		<li>blogContent</li>
-		<li>blogShare</li>
+		<li>supportProductId</li>
+		<li>supportProductIdArticles</li>
 	</ul>
 
 </body>
