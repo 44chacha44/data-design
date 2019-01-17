@@ -33,12 +33,4 @@
 		<li>supportProductIdArticles</li>
 	</ul>
 
-	<p><strong>User</strong></p>
-
-	<ul>
-		<li>userId</li>
-		<li>userName</li>
-		<li>userEmail</li>
-	</ul>
-
 </body>
