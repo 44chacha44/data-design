@@ -36,6 +36,8 @@
 	</ul>
 
 	<div>
+		<p><strong>Entity Relationship Diagram:</strong></p>
+
 		<img src="cmpicture.PNG" alt="erd">
 	</div>
 
