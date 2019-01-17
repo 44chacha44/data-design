@@ -6,7 +6,7 @@
 	<p><strong>Products</strong></p>
 
 	<ul>
-		<li>productId</li>
+		<li>productId (primary key)</li>
 		<li>productType</li>
 		<li>productSize</li>
 		<li>productComfortLevel</li>
@@ -17,7 +17,8 @@
 	<p><strong>Reviews</strong></p>
 
 	<ul>
-		<li>reviewProductId</li>
+		<li>reviewId (primary key)</li>
+		<li>reviewProductId (foreign key)</li>
 		<li>reviewName</li>
 		<li>reviewDate</li>
 		<li>reviewTitle</li>
@@ -29,12 +30,13 @@
 	<p><strong>Support</strong></p>
 
 	<ul>
+		<li>supportId</li>
 		<li>supportProductId</li>
-		<li>supportProductIdArticles</li>
+		<li>supportArticles</li>
 	</ul>
 
 	<div>
-		<img src="conceptualModel.PNG" alt="erd">
+		<img src="cmpicture.PNG" alt="erd">
 	</div>
 
 </body>
