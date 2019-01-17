@@ -33,4 +33,8 @@
 		<li>supportProductIdArticles</li>
 	</ul>
 
+	<div>
+		<img src="conceptualModel.PNG" alt="erd">
+	</div>
+
 </body>
