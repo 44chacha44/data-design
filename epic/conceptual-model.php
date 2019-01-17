@@ -30,9 +30,9 @@
 	<p><strong>Support</strong></p>
 
 	<ul>
-		<li>supportId</li>
-		<li>supportProductId</li>
-		<li>supportArticles</li>
+		<li>supportId (primary key)</li>
+		<li>supportProductId (foreign key)</li>
+		<li>supportArticle</li>
 	</ul>
 
 	<div>
