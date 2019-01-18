@@ -35,6 +35,6 @@ CREATE TABLE support (
 	supportProductId BINARY(16) NOT NULL,
 	supportArticles VARCHAR(140) NOT NULL,
 	INDEX (supportProductId),
-	FOREIGN KEY(supportProductId) REFERENCES product(productId),
+	FOREIGN KEY(supportProductId) REFERENCES products(productId),
 	PRIMARY KEY(supportId)
 );
