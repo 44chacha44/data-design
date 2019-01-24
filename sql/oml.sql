@@ -16,3 +16,7 @@ INSERT INTO support(supportId, supportProductId, supportArticles)
 	Values (UNHEX("3b8bd96fccaa4c7bb3bb8bc68339f9bc"), UNHEX("daff3e30f2df4b06866389c5330da324"), "What is the return process of the Purple Pillow?");
 
 SELECT productId, productType, productSize, productComfortLevel, productColor, productPrice from products WHERE productId = UNHEX("daff3e30f2df4b06866389c5330da324");
+
+SELECT products.productId, products.productType, products.productSize, support.supportProductId FROM products INNER JOIN support ON products.productId WHERE products.productType = "Mattress";
+
+SELECT tweet.tweetId, tweet.tweetProfileId, tweet.tweetContent, tweet.tweetDate, `like`.likeTweetID FROM tweet INNER JOIN `like` ON tweet.tweetId WHERE `like`.likeTweetId = uuid
